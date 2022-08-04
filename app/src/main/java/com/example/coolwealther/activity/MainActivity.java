@@ -1,8 +1,10 @@
-package com.example.coolwealther;
+package com.example.coolwealther.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.coolwealther.R;
 
 public class MainActivity extends AppCompatActivity {
 
